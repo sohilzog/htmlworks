@@ -1,0 +1,32 @@
+h1{
+    color: black;
+    background-color: yellow; */
+} 
+body{
+    background-image: url("pexels-cottonbro-4753987.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+td:hover{
+    background-color:yellow;
+    opacity: 0.6;
+}
+td{
+    color: white;
+    
+
+}
+p{
+color: white;
+font-size: large;
+font-style: initial;
+}
+h4{
+    color: white;
+    font-size: medium;
+    font-style: initial;
+}
+h2{
+    font-size: x-large;
+    color: black;
+    background-color: yellow;
